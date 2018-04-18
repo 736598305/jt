@@ -8,7 +8,7 @@ public class hellow {
 	
 	@RequestMapping(name = "/j")
 	public String test() {
-		return "hellow world - Jenkins Test!";
+		return "hellow world - Jenkins Test!!";
 	}
 	
 }
